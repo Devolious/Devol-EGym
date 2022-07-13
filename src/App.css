@@ -1,13 +1,12 @@
 body {
-  font-family: 'Josefin Sans';
-  background-color: #FFFAFB;
+  font-family: 'Work Sans', sans-serif;
+  background-color: #f3f1dd;
 }
 
 * {
   padding: 0px;
   margin: 0px;
   box-sizing: border-box;
-
 }
 
 ::-webkit-scrollbar {
@@ -59,16 +58,16 @@ body {
   top: 0px;
   width: 700px;
   height: 900px;
-  margin-top: -330px;
-
+  margin-top: -275px;
+  border-radius: 25px;
 }
 
 .exercise-card {
   width: 400px;
   height: 445px;
-  background: #fff;
+  background: rgb(244, 233, 189);
   border-top: 4px solid #FF2625;
-  border-bottom-left-radius: 20px;
+  border-bottom-left-radius: 20px; 
   text-decoration: none;
   display: flex;
   justify-content: space-between;
